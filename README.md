@@ -26,6 +26,7 @@ This project is an exploratory data analysis (EDA) of a fictional superstore's s
 ## 🖥️ Preview:
 
 You can view this notebook:
+
 - 📘 On GitHub: [Open notebook file](./analytics.ipynb)
 
 ---
@@ -33,11 +34,14 @@ You can view this notebook:
 ## 📌 How to run:
 
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib seaborn jupyter
 jupyter notebook
-Then open analytics.ipynb
+```
 
-## ✍️ Author
+✍️ **Author**
 
-Piotr Kharashkevich
-Warsaw University of Technology — Programming & Information Systems student
+**Piotr Kharashkevich**  
+Bachelor Student @ Warsaw University of Technology  
+**Field:** Programming & Information Systems  
+**Semester:** 2nd  
+📍 Warsaw, Poland
